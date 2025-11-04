@@ -1,0 +1,16 @@
+server:
+  port: 8090
+
+build:
+  version: LOANS_V1
+
+loans:
+  message: "Welcome to DSRTECHSOL LOANS related Local APIs "
+  contactDetails:
+    name: "Kubera - Developer"
+    email: "Kubera@dsrtechsol.com"
+  onCallSupport:
+    - (909) 420-1234
+    - (990) 420-1345
+
+

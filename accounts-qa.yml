@@ -1,0 +1,11 @@
+build :
+  version: moola_v1
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs "
+  contactDetails:
+    name: "Chirayu D Rajamani - Developer"
+    email: "Chirayu@dsrtechsol.com"
+  onCallSupport:
+    - (654) 000-1234
+    - (565) 000-1345

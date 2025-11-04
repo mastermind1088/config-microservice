@@ -1,0 +1,14 @@
+
+build:
+  version: LOANS_QA_V1
+
+loans:
+  message: "Welcome to DSRTECHSOL LOANS related QA APIs "
+  contactDetails:
+    name: "BHAIRAV - Developer"
+    email: "bhairav@dsrtechsol.com"
+  onCallSupport:
+    - (333) 420-1234
+    - (333) 420-1345
+
+

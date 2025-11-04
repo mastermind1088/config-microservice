@@ -1,0 +1,17 @@
+spring :
+  config :
+    activate :
+      on-profile : prod
+
+build :
+  version : PROD_CARD_V1
+
+cards:
+  message: "Welcome to DSRTECHSOL CARDS related PRODUCTION APIs "
+  contactDetails:
+    name: "SHIVA - Developer"
+    email: "shiva@dsrtechsol.com"
+  onCallSupport:
+    - (108) 555-1234
+    - (108) 523-1345
+

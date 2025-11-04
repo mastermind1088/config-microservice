@@ -1,0 +1,15 @@
+server:
+  port: 9000
+
+build :
+  version : CARD_V1
+
+cards:
+  message: "Welcome to DSRTECHSOL CARDS related local APIs "
+  contactDetails:
+    name: "Rajamani - Developer"
+    email: "rajamani@dsrtechsol.com"
+  onCallSupport:
+    - (990) 555-1234
+    - (990) 523-1345
+

@@ -1,0 +1,12 @@
+
+build :
+  version: rudra_v1
+
+accounts:
+  message: "Welcome to DSRTECHSOL accounts related PRODUCTION APIs "
+  contactDetails:
+    name: "Nakshatra D Rajamani - Developer"
+    email: "Nakshatra@dsrtechsol.com"
+  onCallSupport:
+    - (654) 000-1234
+    - (565) 000-1345
