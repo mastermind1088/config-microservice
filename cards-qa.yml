@@ -8,7 +8,7 @@ build :
   version : QA_CARD_V1
 
 cards:
-  message: "Welcome to DSRTECHSOL CARDS related QA APIs "
+  message: "Welcome to DSRTECHSOL CARDS related QA --- APIs "
   contactDetails:
     name: "GANESH - Developer"
     email: "ganesh@dsrtechsol.com"
