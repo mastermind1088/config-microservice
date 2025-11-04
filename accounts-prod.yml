@@ -1,6 +1,6 @@
 
 build :
-  version: rudra_v1
+  version: rudra_v1.2
 
 accounts:
   message: "Welcome to DSRTECHSOL accounts related PRODUCTION APIs "
