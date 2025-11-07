@@ -7,7 +7,7 @@ build :
   version : PROD_CARD_V1
 
 cards:
-  message: "Welcome to DSRTECHSOL CARDS related PRODUCTION APIs "
+  message: "Welcome to DSRTECHSOL CARDS related production APIs "
   contactDetails:
     name: "SHIVA - Developer"
     email: "shiva@dsrtechsol.com"
