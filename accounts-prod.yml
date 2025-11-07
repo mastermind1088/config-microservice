@@ -3,7 +3,7 @@ build :
   version: rudra_v1.2
 
 accounts:
-  message: "Welcome to DSRTECHSOL accounts related PROD-CONFIGURATION APIs "
+  message: "Welcome to DSRTECHSOL accounts related production APIs "
   contactDetails:
     name: "Nakshatra D Rajamani - Sr.Developer"
     email: "{cipher}90cb995d4501cd07b52c6693a0c79a98147e73aa77ee01ce76ae22cd0d7af81795cf7cbfb2707abbf8cd394ea7b36fc5"
