@@ -3,7 +3,7 @@ build:
   version: LOANS_PROD_V1
 
 loans:
-  message: "Welcome to DSRTECHSOL LOANS related webhook-TEST APIs "
+  message: "Welcome to DSRTECHSOL LOANS related webhook-test APIs "
   contactDetails:
     name: "TANDAV - Developer"
     email: "tandav@dsrtechsol.com"
